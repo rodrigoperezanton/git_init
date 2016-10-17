@@ -1,0 +1,1 @@
+Classes are like factories where you can have different attributes for things
